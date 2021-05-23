@@ -9,6 +9,7 @@ Para executar o script você deve fornecer um host, uma porta inicio ou limite (
 Exemplo:
 
 > python3 port_scan.py 127.0.0.1
+
 > python3 port_scan.py 127.0.0.1 1 65535 t1 
 
  
